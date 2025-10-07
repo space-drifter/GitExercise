@@ -1,1 +1,5 @@
 Initial content for the exercise...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer accumsan eros non maximus posuere. 
+Vivamus vel fermentum lacus, sed aliquet augue. 
+Ut pulvinar odio turpis, sit amet venenatis nulla placerat vel. 
